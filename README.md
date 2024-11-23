@@ -1,4 +1,4 @@
-# Non-resident-Loader
+# Non resident Loader
 For ease of understanding, the code will be written in C using the VS 2022 development environment, the written code will work on earlier versions, however, if Windows XP support is important to you, appropriate packages will be required.
 
 First, we need to create an empty project and configure it correctly. We will remove all unnecessary dependencies from the project, disable CRT and save debugging information.
